@@ -1,0 +1,26 @@
+h1 {color: blue;}
+h2 {color: orange;} h2 {font-size: x-large;}
+p {font-size: 20px;} p {font:sans-serif;}
+li {font-size: 20PX;} li{font:sans-serif;}
+#foto {
+    margin: auto;
+    width: 35%;
+    border: 3px;
+    padding: 10px;
+    float:right;
+    height: 35%;
+    position: absolute;
+    bottom: 60%;
+    right: +50px;
+  }  
+
+ .Oyunlar {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+      
+  }
+  body {background-color:#dcdbdb;list-style: none; }
+  a {text-decoration: none; }
